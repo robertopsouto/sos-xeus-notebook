@@ -1,0 +1,12 @@
+name: sos-notebook
+channels:
+  - conda-forge
+dependencies:
+  - xeus-cling
+  - xwidgets
+  - xtensor
+  - xtl
+  - xframe
+  - matplotlib
+  - notebook
+  - sos-notebook
